@@ -324,6 +324,22 @@
     [
       "eded1b35-4e0f-4f00-ac10-8e3fc06300de",
       "Microcontroller_Power_Pins"
+    ],
+    [
+      "bd133518-b1d6-4b0c-831d-7da8fbce82c8",
+      "3V3 Voltage Regulator"
+    ],
+    [
+      "b35dd259-52b0-4d58-958d-7e3f75bcc749",
+      "RX_Transceiver"
+    ],
+    [
+      "f636298c-c771-43ec-bc8a-7e71b1db3da0",
+      "Microcontroller"
+    ],
+    [
+      "edce2ea2-ae1c-4832-925b-7a77d2799a1f",
+      "TX_Transceiver"
     ]
   ],
   "text_variables": {}
