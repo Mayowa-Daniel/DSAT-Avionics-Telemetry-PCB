@@ -170,7 +170,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cfa5b242-e66c-4217-acd4-153bf13fcbaa)
     )
-    (fp_text value "Duplexer" (at 0 2.5 90) (layer "F.Fab")
+    (fp_text value "Duplexer" (at 0.534 3.5494 90) (layer "F.Fab")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d94884dd-ba5f-42e1-8c61-dd4f185d58ad)
     )
