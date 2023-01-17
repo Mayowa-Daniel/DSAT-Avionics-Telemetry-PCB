@@ -434,6 +434,18 @@
     [
       "edce2ea2-ae1c-4832-925b-7a77d2799a1f",
       "TX_Transceiver"
+    ],
+    [
+      "c771c3fd-1f42-4543-ba62-4055570aa71e",
+      "Low Noise Amplifier"
+    ],
+    [
+      "0e1afd4f-a95a-4a6c-bfdc-a22f47504784",
+      "Duplexer"
+    ],
+    [
+      "64d70bff-c24a-43f6-b89c-973fd51591c4",
+      "USBC to USB 2.0"
     ]
   ],
   "text_variables": {}
