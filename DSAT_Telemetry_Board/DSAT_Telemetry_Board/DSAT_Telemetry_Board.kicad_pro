@@ -416,32 +416,32 @@
       ""
     ],
     [
-      "bd133518-b1d6-4b0c-831d-7da8fbce82c8",
+      "76861012-d1f5-4e21-8452-514feee42559",
       "3V3 Voltage Regulator"
     ],
     [
-      "b35dd259-52b0-4d58-958d-7e3f75bcc749",
+      "d2551876-bd8e-43b8-8b1d-409bc0737bbb",
       "RX_Transceiver"
     ],
     [
-      "f636298c-c771-43ec-bc8a-7e71b1db3da0",
+      "051119e3-6901-4aef-9044-6683b3d16224",
       "Microcontroller"
     ],
     [
-      "edce2ea2-ae1c-4832-925b-7a77d2799a1f",
+      "b04cc696-87e7-46ef-a3dd-cc9bfefb7920",
       "TX_Transceiver"
     ],
     [
-      "c771c3fd-1f42-4543-ba62-4055570aa71e",
+      "29bd7aef-bbce-4d27-93f5-6a264168c193",
       "Low Noise Amplifier"
     ],
     [
-      "0e1afd4f-a95a-4a6c-bfdc-a22f47504784",
+      "fe6a0d65-c230-431c-b9e7-e67d9cc1c354",
       "Duplexer"
     ],
     [
-      "64d70bff-c24a-43f6-b89c-973fd51591c4",
-      "USBC to USB 2.0"
+      "2788890c-c4f3-4830-91b1-f6172238f9f7",
+      "USBC to USB 2.1"
     ]
   ],
   "text_variables": {}
