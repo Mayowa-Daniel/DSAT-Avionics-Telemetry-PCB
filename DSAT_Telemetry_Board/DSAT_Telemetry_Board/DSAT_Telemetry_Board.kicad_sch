@@ -573,18 +573,6 @@
     )
   )
 
-  (sheet (at 226.06 71.12) (size 20.32 11.43) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
-    (uuid fe6a0d65-c230-431c-b9e7-e67d9cc1c354)
-    (property "Sheet name" "Duplexer" (id 0) (at 226.06 70.4084 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheet file" "Duplexer.kicad_sch" (id 1) (at 226.06 83.1346 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-  )
-
   (sheet_instances
     (path "/" (page "1"))
     (path "/76861012-d1f5-4e21-8452-514feee42559" (page "2"))
@@ -592,7 +580,6 @@
     (path "/051119e3-6901-4aef-9044-6683b3d16224" (page "4"))
     (path "/b04cc696-87e7-46ef-a3dd-cc9bfefb7920" (page "5"))
     (path "/29bd7aef-bbce-4d27-93f5-6a264168c193" (page "6"))
-    (path "/fe6a0d65-c230-431c-b9e7-e67d9cc1c354" (page "7"))
     (path "/2788890c-c4f3-4830-91b1-f6172238f9f7" (page "8"))
   )
 
@@ -742,7 +729,7 @@
       (reference "C?") (unit 1) (value "100nF") (footprint "")
     )
     (path "/b04cc696-87e7-46ef-a3dd-cc9bfefb7920/5e318e73-8249-4c91-897c-4bc6ccdc6c3c"
-      (reference "C?") (unit 1) (value "Unknown") (footprint "")
+      (reference "C?") (unit 1) (value "20uF") (footprint "")
     )
     (path "/b04cc696-87e7-46ef-a3dd-cc9bfefb7920/61d17363-02f7-464d-be83-412b08dd6da3"
       (reference "C?") (unit 1) (value "C_Small") (footprint "")
@@ -757,7 +744,7 @@
       (reference "C?") (unit 1) (value "C_Small") (footprint "")
     )
     (path "/b04cc696-87e7-46ef-a3dd-cc9bfefb7920/9702af8e-c0d8-4303-a3c3-7fe266afd351"
-      (reference "C?") (unit 1) (value "Unknown") (footprint "")
+      (reference "C?") (unit 1) (value "20uF") (footprint "")
     )
     (path "/d2551876-bd8e-43b8-8b1d-409bc0737bbb/a3631998-e532-4f49-a8f2-9624828de9f8"
       (reference "C?") (unit 1) (value "C_Small") (footprint "")
