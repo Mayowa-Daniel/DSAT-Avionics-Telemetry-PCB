@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "DSAT_Telemetry_Libraries")(type "KiCad")(uri "C:/Users/Mayowa/Documents/Projects/DSAT/DSAT-Avionics-Telemetry-PCB/DSAT_Telemetry_Board/Project_Libraries/DSAT_Telemetry_Libraries.kicad_sym")(options "")(descr ""))
+  (lib (name "DSAT_Telemetry_Libraries")(type "KiCad")(uri "C:/Users/Mayowa/Documents/Projects/DSAT/DSAT-Avionics-Telemetry-PCB/DSAT_Telemetry_Board/Project_Libraries/DSAT_Telemetry_Libraries.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "Watchdog_Timer")(type "KiCad")(uri "${KIPRJMOD}/Watchdog_Timer.kicad_sym")(options "")(descr ""))
 )

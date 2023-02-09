@@ -436,6 +436,10 @@
       "Low Noise Amplifier"
     ],
     [
+      "ff6a7d87-c5e6-4509-8918-1525dc85be70",
+      "Watchdog_Timer"
+    ],
+    [
       "2788890c-c4f3-4830-91b1-f6172238f9f7",
       "USBC to USB 2.1"
     ]
