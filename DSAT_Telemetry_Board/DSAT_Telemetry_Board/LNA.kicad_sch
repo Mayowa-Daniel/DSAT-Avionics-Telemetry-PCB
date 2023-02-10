@@ -332,7 +332,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 2b1ff616-3cf1-4435-84d3-5655206e4721)
   )
-  (hierarchical_label "TX_Duplexer" (shape input) (at 193.04 104.14 0)
+  (hierarchical_label "Antenna" (shape input) (at 193.04 104.14 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 7f58e642-c9c4-423d-9109-b25bd72553ac)
   )
