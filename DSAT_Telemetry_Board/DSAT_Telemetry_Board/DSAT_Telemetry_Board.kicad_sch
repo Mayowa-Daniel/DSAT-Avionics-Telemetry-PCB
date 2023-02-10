@@ -798,97 +798,97 @@
       (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
     )
     (path "/b04cc696-87e7-46ef-a3dd-cc9bfefb7920/0aa863bd-4f30-4f64-b3da-6b2127e6f939"
-      (reference "C?") (unit 1) (value "C_Small") (footprint "")
+      (reference "C?") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/051119e3-6901-4aef-9044-6683b3d16224/0ccd2d38-d62a-4bd4-ac63-7166a0beca6d"
-      (reference "C?") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C?") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/d2551876-bd8e-43b8-8b1d-409bc0737bbb/0ee541d1-8d4e-4fa3-8e59-6249868c6758"
-      (reference "C?") (unit 1) (value "Unknown") (footprint "")
+      (reference "C?") (unit 1) (value "Unknown") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/76861012-d1f5-4e21-8452-514feee42559/1882782e-2c8b-4bcc-8e8e-b83d8e16b4d7"
-      (reference "C?") (unit 1) (value "22uF") (footprint "")
+      (reference "C?") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/ff6a7d87-c5e6-4509-8918-1525dc85be70/1ad96e53-b94b-4f4e-b502-8a5c52ecd630"
-      (reference "C?") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C?") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/051119e3-6901-4aef-9044-6683b3d16224/1ebd0517-aa38-4439-8011-b413ebf422cb"
-      (reference "C?") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C?") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/ff6a7d87-c5e6-4509-8918-1525dc85be70/200e79af-69e8-4847-ae95-66a2fea9c1b2"
-      (reference "C?") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C?") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/051119e3-6901-4aef-9044-6683b3d16224/20e96fe6-e769-469c-b8d2-10db85969207"
-      (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/b04cc696-87e7-46ef-a3dd-cc9bfefb7920/27053139-bf29-403c-a588-0c2521ecb80c"
-      (reference "C?") (unit 1) (value "C_Small") (footprint "")
+      (reference "C?") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/d2551876-bd8e-43b8-8b1d-409bc0737bbb/27cbe5f9-d3ca-48db-8b7b-1d9436015d09"
-      (reference "C?") (unit 1) (value "Unknown") (footprint "")
+      (reference "C?") (unit 1) (value "Unknown") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/29bd7aef-bbce-4d27-93f5-6a264168c193/49e740ff-e368-4f7c-8276-7f9dfff47018"
-      (reference "C?") (unit 1) (value "0.1uF") (footprint "")
+      (reference "C?") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/051119e3-6901-4aef-9044-6683b3d16224/5380716a-97f6-466f-988f-56aa47edb188"
-      (reference "C?") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C?") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/051119e3-6901-4aef-9044-6683b3d16224/59083d1b-7b2a-40ad-b90f-569e27b6c741"
-      (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/b04cc696-87e7-46ef-a3dd-cc9bfefb7920/5e318e73-8249-4c91-897c-4bc6ccdc6c3c"
-      (reference "C?") (unit 1) (value "20uF") (footprint "")
+      (reference "C?") (unit 1) (value "20uF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/b04cc696-87e7-46ef-a3dd-cc9bfefb7920/61d17363-02f7-464d-be83-412b08dd6da3"
       (reference "C?") (unit 1) (value "C_Small") (footprint "")
     )
     (path "/b04cc696-87e7-46ef-a3dd-cc9bfefb7920/76c4afb0-e431-49a9-8c39-2af42365e311"
-      (reference "C?") (unit 1) (value "C_Small") (footprint "")
+      (reference "C?") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/051119e3-6901-4aef-9044-6683b3d16224/7e5c64a3-53cc-438a-acee-a3883a829a63"
-      (reference "C?") (unit 1) (value "10pF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C?") (unit 1) (value "10pF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/d2551876-bd8e-43b8-8b1d-409bc0737bbb/814c3dd6-023c-4918-b968-2004afc98760"
-      (reference "C?") (unit 1) (value "C_Small") (footprint "")
+      (reference "C?") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/b04cc696-87e7-46ef-a3dd-cc9bfefb7920/9702af8e-c0d8-4303-a3c3-7fe266afd351"
-      (reference "C?") (unit 1) (value "20uF") (footprint "")
+      (reference "C?") (unit 1) (value "20uF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/d2551876-bd8e-43b8-8b1d-409bc0737bbb/a3631998-e532-4f49-a8f2-9624828de9f8"
-      (reference "C?") (unit 1) (value "C_Small") (footprint "")
+      (reference "C?") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/051119e3-6901-4aef-9044-6683b3d16224/a6cf84cb-4089-4f7e-a0f7-23ac800dd71e"
-      (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/29bd7aef-bbce-4d27-93f5-6a264168c193/b8a03bfb-8b47-4afc-875e-f34e4d559fab"
-      (reference "C?") (unit 1) (value "100pF") (footprint "")
+      (reference "C?") (unit 1) (value "100pF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/76861012-d1f5-4e21-8452-514feee42559/baf8926d-81df-4911-b917-3fa3a8590dae"
-      (reference "C?") (unit 1) (value "22uF") (footprint "")
+      (reference "C?") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/051119e3-6901-4aef-9044-6683b3d16224/c0889d2a-b056-4a91-a45a-8896492af0b2"
-      (reference "C?") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C?") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/051119e3-6901-4aef-9044-6683b3d16224/cc315a9b-0b01-4718-b985-cbf3b3a68ad3"
-      (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/b04cc696-87e7-46ef-a3dd-cc9bfefb7920/d0c23ea5-445c-416d-af04-29781021d51a"
-      (reference "C?") (unit 1) (value "C_Small") (footprint "")
+      (reference "C?") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/051119e3-6901-4aef-9044-6683b3d16224/d7e967a2-8865-4c8a-af87-cad3cf6c9ddb"
-      (reference "C?") (unit 1) (value "10pF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C?") (unit 1) (value "10pF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/29bd7aef-bbce-4d27-93f5-6a264168c193/e13dc8ed-1c56-4ae9-8288-c209db7c256b"
-      (reference "C?") (unit 1) (value "1.5nF") (footprint "")
+      (reference "C?") (unit 1) (value "1.5nF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/d2551876-bd8e-43b8-8b1d-409bc0737bbb/f6e1b32c-aa6e-4daa-8c40-3bbfb8446832"
-      (reference "C?") (unit 1) (value "C_Small") (footprint "")
+      (reference "C?") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/b04cc696-87e7-46ef-a3dd-cc9bfefb7920/f8c08ae5-3f9a-4c4c-8f85-7109eff44413"
-      (reference "C?") (unit 1) (value "C_Small") (footprint "")
+      (reference "C?") (unit 1) (value "C_Small") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/051119e3-6901-4aef-9044-6683b3d16224/fe805879-b9d4-4961-8c90-341af8120317"
-      (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0201_0603Metric_Pad0.64x0.40mm_HandSolder")
+      (reference "C?") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0201_0603Metric")
     )
     (path "/76861012-d1f5-4e21-8452-514feee42559/dae7b9d7-2f75-4237-9cf2-d0549903e367"
       (reference "D?") (unit 1) (value "LED") (footprint "")
@@ -930,22 +930,22 @@
       (reference "L?") (unit 1) (value "L") (footprint "")
     )
     (path "/051119e3-6901-4aef-9044-6683b3d16224/15542fee-4004-4fd6-97b9-3e811cd4ab35"
-      (reference "R?") (unit 1) (value "1k5") (footprint "")
+      (reference "R?") (unit 1) (value "1k5") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/2788890c-c4f3-4830-91b1-f6172238f9f7/96915e8f-9a52-4410-9b54-bd771f6667c3"
-      (reference "R?") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R?") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/051119e3-6901-4aef-9044-6683b3d16224/a99889e8-5799-463d-b5c9-5112ff93436e"
-      (reference "R?") (unit 1) (value "10kOhm") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
+      (reference "R?") (unit 1) (value "10kOhm") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/2788890c-c4f3-4830-91b1-f6172238f9f7/aebad735-f401-4f6e-8721-380425da36a7"
-      (reference "R?") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R?") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/ff6a7d87-c5e6-4509-8918-1525dc85be70/b02b2aed-7e34-4e47-9a7e-91558895acfd"
-      (reference "R?") (unit 1) (value "100kOhm") (footprint "")
+      (reference "R?") (unit 1) (value "100kOhm") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/76861012-d1f5-4e21-8452-514feee42559/e3d26615-8810-42fb-9d79-396c8d4fc7ee"
-      (reference "R?") (unit 1) (value "1k5") (footprint "")
+      (reference "R?") (unit 1) (value "1k5") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/051119e3-6901-4aef-9044-6683b3d16224/449e3d8a-b8e5-47ce-b0c7-78c7257168fd"
       (reference "SW?") (unit 1) (value "SW_Push") (footprint "")
