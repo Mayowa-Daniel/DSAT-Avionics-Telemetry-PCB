@@ -322,17 +322,12 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 86a8bdaf-31ee-42a1-adc3-9e60674818e0)
   )
-  (text "Data Sheets says 3V or 5V, unsure if +3.3V will work or not, but worth trying\n"
-    (at 148.59 71.12 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid ced003e7-b04c-48bd-ad9a-388688444d91)
-  )
 
   (hierarchical_label "TX_Transciever" (shape input) (at 109.22 104.14 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 2b1ff616-3cf1-4435-84d3-5655206e4721)
   )
-  (hierarchical_label "Antenna" (shape input) (at 193.04 104.14 0)
+  (hierarchical_label "TX_LNA" (shape input) (at 193.04 104.14 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 7f58e642-c9c4-423d-9109-b25bd72553ac)
   )

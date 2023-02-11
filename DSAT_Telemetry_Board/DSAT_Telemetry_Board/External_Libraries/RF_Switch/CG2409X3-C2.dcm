@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CG2409X3-C2
+D RF Switch ICs 50-6000MHz SPDT 802.11a/b/g/n/ac
+K
+F http://www.cel.com/pdf/datasheets/CG2409X3.pdf
+$ENDCMP
+#
+#End Doc Library

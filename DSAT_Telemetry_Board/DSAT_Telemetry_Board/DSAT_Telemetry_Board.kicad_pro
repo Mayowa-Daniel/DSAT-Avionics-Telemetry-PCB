@@ -420,28 +420,28 @@
       "3V3 Voltage Regulator"
     ],
     [
-      "d2551876-bd8e-43b8-8b1d-409bc0737bbb",
-      "RX_Transceiver"
-    ],
-    [
       "051119e3-6901-4aef-9044-6683b3d16224",
       "Microcontroller"
     ],
     [
       "b04cc696-87e7-46ef-a3dd-cc9bfefb7920",
-      "TX_Transceiver"
+      "Transceiver"
     ],
     [
       "29bd7aef-bbce-4d27-93f5-6a264168c193",
       "Low Noise Amplifier"
     ],
     [
+      "2788890c-c4f3-4830-91b1-f6172238f9f7",
+      "USBC to USB 2.1"
+    ],
+    [
       "ff6a7d87-c5e6-4509-8918-1525dc85be70",
       "Watchdog_Timer"
     ],
     [
-      "2788890c-c4f3-4830-91b1-f6172238f9f7",
-      "USBC to USB 2.1"
+      "478ff967-afe0-415a-bdf6-9816ed531ad8",
+      "RX_Switch"
     ]
   ],
   "text_variables": {}
