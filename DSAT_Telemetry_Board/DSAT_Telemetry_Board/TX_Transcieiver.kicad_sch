@@ -762,7 +762,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 5eab1b95-c21a-4a42-9794-508812099507)
   )
-  (hierarchical_label "TX_LNA" (shape input) (at 54.61 63.5 180)
+  (hierarchical_label "TX_Transceiver" (shape input) (at 54.61 63.5 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 61b966fb-8eca-4e5b-a5c6-e02aea516055)
   )
