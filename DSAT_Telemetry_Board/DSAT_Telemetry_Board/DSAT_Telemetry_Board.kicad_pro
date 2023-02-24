@@ -416,32 +416,32 @@
       ""
     ],
     [
-      "76861012-d1f5-4e21-8452-514feee42559",
-      "3V3 Voltage Regulator"
+      "7063a418-ad5e-4c18-adb4-192c0580fe78",
+      "3V3 Voltage Regulator1"
     ],
     [
-      "d2551876-bd8e-43b8-8b1d-409bc0737bbb",
-      "RX_Transceiver"
-    ],
-    [
-      "051119e3-6901-4aef-9044-6683b3d16224",
+      "ce2b98e7-7752-403f-953c-b617c8af9ffd",
       "Microcontroller"
     ],
     [
-      "b04cc696-87e7-46ef-a3dd-cc9bfefb7920",
-      "TX_Transceiver"
+      "197899a5-be91-4fa9-8e75-522cf68d1072",
+      "Transceiver1"
     ],
     [
-      "29bd7aef-bbce-4d27-93f5-6a264168c193",
-      "Low Noise Amplifier"
+      "9b229aa7-94bd-4128-8679-fdc2b1ea31e1",
+      "Low Noise Amplifier1"
     ],
     [
-      "ff6a7d87-c5e6-4509-8918-1525dc85be70",
+      "f16486a1-73ff-4db4-9bf1-ba8e7da9ac52",
       "Watchdog_Timer"
     ],
     [
-      "2788890c-c4f3-4830-91b1-f6172238f9f7",
-      "USBC to USB 2.1"
+      "20e2c0b4-e001-4da0-871f-4df92a319e8f",
+      "USBC to USB 2.2"
+    ],
+    [
+      "199c9d7d-1017-4719-8a87-dec201b08eca",
+      "RX_Switch1"
     ]
   ],
   "text_variables": {}

@@ -1,4 +1,4 @@
-20132546322818229
+20135899689724942
 AD9361BBCZ
 BGA144C80P12X12_1000X1000X170
 
@@ -2386,6 +2386,13 @@ speaker CUI
 0
 2
 2
+CG2409X3-C2
+SON50P150X150X40-7N
+CG2409X3-C2
+Integrated Circuit
+0
+7
+7
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -76740,6 +76747,13 @@ Shielding Cabinet
 0
 48
 1
+RF_Switch
+SON50P150X150X40-7N
+CG2409X3-C2
+Integrated Circuit
+0
+7
+7
 RF_WiFi
 USR-C322
 https://www.usriot.com/download/WIFI/USR-C322-Hardware-Manual_V1.2.01.pdf

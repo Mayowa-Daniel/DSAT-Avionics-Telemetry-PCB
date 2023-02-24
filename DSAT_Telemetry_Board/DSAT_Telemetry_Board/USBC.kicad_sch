@@ -366,7 +366,7 @@
     )
   )
 
-  (symbol (lib_id "Type-C:HRO-TYPE-C-31-M-12") (at 127 104.14 0) (unit 1)
+  (symbol (lib_id "Type-C:HRO-TYPE-C-31-M-12") (at 127 104.14 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1bb3e249-114f-4d78-af47-780d0cc45135)
     (property "Reference" "USB?" (id 0) (at 121.285 83.82 0)
@@ -399,7 +399,7 @@
     (pin "9" (uuid 29de0295-fc98-4e91-b33d-3538007ba123))
   )
 
-  (symbol (lib_id "power:VCC") (at 146.05 92.71 270) (unit 1)
+  (symbol (lib_id "power:VCC") (at 146.05 92.71 270)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2c04050f-f512-4581-b983-748e3e9c8741)
     (property "Reference" "#PWR?" (id 0) (at 142.24 92.71 0)
@@ -417,7 +417,7 @@
     (pin "1" (uuid 0e2b9951-d16b-44e6-b1cb-591d480e8428))
   )
 
-  (symbol (lib_id "power:GND") (at 135.89 123.19 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 135.89 123.19 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7c6968c0-fe3f-4461-bd16-269e440f9e68)
     (property "Reference" "#PWR?" (id 0) (at 135.89 129.54 0)
@@ -433,7 +433,7 @@
     (pin "1" (uuid 1d1616d0-9e50-4793-b0e3-38e6ab0af7ca))
   )
 
-  (symbol (lib_id "Device:R_Small") (at 148.59 100.33 0) (unit 1)
+  (symbol (lib_id "Device:R_Small") (at 148.59 100.33 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 96915e8f-9a52-4410-9b54-bd771f6667c3)
     (property "Reference" "R?" (id 0) (at 151.13 99.0599 0)
@@ -442,7 +442,7 @@
     (property "Value" "5.1k" (id 1) (at 151.13 101.5999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 148.59 100.33 0)
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (id 2) (at 148.59 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-6ARW512V/3073815" (id 3) (at 148.59 100.33 0)
@@ -452,7 +452,7 @@
     (pin "2" (uuid a424f5d1-34b1-460e-a454-2b7a281b3e10))
   )
 
-  (symbol (lib_id "Device:R_Small") (at 138.43 107.95 0) (unit 1)
+  (symbol (lib_id "Device:R_Small") (at 138.43 107.95 0)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid aebad735-f401-4f6e-8721-380425da36a7)
     (property "Reference" "R?" (id 0) (at 140.97 106.6799 0)
@@ -461,7 +461,7 @@
     (property "Value" "5.1k" (id 1) (at 140.97 109.2199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (id 2) (at 138.43 107.95 0)
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (id 2) (at 138.43 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-6ARW512V/3073815" (id 3) (at 138.43 107.95 0)
