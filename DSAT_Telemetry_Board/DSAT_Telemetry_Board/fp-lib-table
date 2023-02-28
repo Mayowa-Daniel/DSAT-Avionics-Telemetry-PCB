@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/External_Libraries/Type-C.pretty-master")(options "")(descr ""))
+  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/External_Libraries/Footprints")(options "")(descr ""))
+)
