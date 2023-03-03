@@ -1773,7 +1773,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid d4d62340-d484-4187-a24d-d081cf0e4f39)
   )
-  (hierarchical_label "TX_SCK" (shape input) (at 160.02 50.8 180)
+  (hierarchical_label "TX_SCLK" (shape input) (at 160.02 50.8 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid da90d919-bea6-49e1-ba07-1331025cb680)
   )
