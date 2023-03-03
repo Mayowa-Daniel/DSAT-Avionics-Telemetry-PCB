@@ -1426,15 +1426,6 @@
     (path "/ce2b98e7-7752-403f-953c-b617c8af9ffd/059334c3-0b8d-4ca8-bea7-c585e4caee6f"
       (reference "#PWR0121") (unit 1) (value "GND") (footprint "")
     )
-    (path "/ce2b98e7-7752-403f-953c-b617c8af9ffd/397ff13a-60f1-4cf2-bf64-63c40f16277a"
-      (reference "#PWR0122") (unit 1) (value "VBUS") (footprint "")
-    )
-    (path "/ce2b98e7-7752-403f-953c-b617c8af9ffd/11aadfdd-0b8f-424f-9ce9-ae484e570e1b"
-      (reference "#PWR0123") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/ce2b98e7-7752-403f-953c-b617c8af9ffd/eab24768-058b-4b7d-9f59-f216c4578817"
-      (reference "#PWR0124") (unit 1) (value "+3.3V") (footprint "")
-    )
     (path "/ce2b98e7-7752-403f-953c-b617c8af9ffd/18e77f8e-894d-46b4-aa6d-d6d24f213032"
       (reference "#PWR0125") (unit 1) (value "GND") (footprint "")
     )
@@ -1514,7 +1505,7 @@
       (reference "#PWR0150") (unit 1) (value "GND") (footprint "")
     )
     (path "/197899a5-be91-4fa9-8e75-522cf68d1072/1cbb4f5e-37b7-4f10-9f29-72481700c927"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0151") (unit 1) (value "GND") (footprint "")
     )
     (path "/7063a418-ad5e-4c18-adb4-192c0580fe78/f6baf383-b883-40f1-8c33-48b3a6b8da16"
       (reference "C1") (unit 1) (value "22uF") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
@@ -1648,9 +1639,6 @@
     (path "/7063a418-ad5e-4c18-adb4-192c0580fe78/73ed6a0c-f517-41e0-a34c-ed01532d6a4e"
       (reference "J3") (unit 1) (value "Conn_01x02_Female") (footprint "Footprints:EDGE_PADS")
     )
-    (path "/ce2b98e7-7752-403f-953c-b617c8af9ffd/02e4c0f8-0371-4f32-9375-d42b74dbb9d9"
-      (reference "J4") (unit 1) (value "USB_B_Micro") (footprint "")
-    )
     (path "/ce2b98e7-7752-403f-953c-b617c8af9ffd/4b542f22-16a9-472d-aa69-4397fadf5d95"
       (reference "J5") (unit 1) (value "Conn_01x04_Male") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x04_P1.00mm_Vertical")
     )
@@ -1698,9 +1686,6 @@
     )
     (path "/7063a418-ad5e-4c18-adb4-192c0580fe78/74fea7d7-28ea-422b-a980-8b2fdd660a13"
       (reference "R8") (unit 1) (value "1k5") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
-    )
-    (path "/ce2b98e7-7752-403f-953c-b617c8af9ffd/15542fee-4004-4fd6-97b9-3e811cd4ab35"
-      (reference "R9") (unit 1) (value "1k5") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/ce2b98e7-7752-403f-953c-b617c8af9ffd/a99889e8-5799-463d-b5c9-5112ff93436e"
       (reference "R10") (unit 1) (value "10kOhm") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
@@ -1802,7 +1787,7 @@
       (reference "U7") (unit 1) (value "PSA4-5043+") (footprint "Package_TO_SOT_SMD:SOT-343_SC-70-4_Handsoldering")
     )
     (path "/f16486a1-73ff-4db4-9bf1-ba8e7da9ac52/cec20b0d-acc5-4fac-9edb-aa31383211b0"
-      (reference "U8") (unit 1) (value "Watchdog_Timer") (footprint "Package_SO:MSOP-8-1EP_3x3mm_P0.65mm_EP1.73x1.85mm")
+      (reference "U8") (unit 1) (value "Watchdog_Timer") (footprint "Watchdog_Footprints:Watchdog_Timer")
     )
     (path "/20e2c0b4-e001-4da0-871f-4df92a319e8f/1bb3e249-114f-4d78-af47-780d0cc45135"
       (reference "USB1") (unit 1) (value "HRO-TYPE-C-31-M-12") (footprint "Type-C:HRO-TYPE-C-31-M-12-HandSoldering")

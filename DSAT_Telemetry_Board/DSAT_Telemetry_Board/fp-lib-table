@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "Type-C")(type "KiCad")(uri "${KIPRJMOD}/External_Libraries/Type-C.pretty-master")(options "")(descr ""))
   (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/External_Libraries/Footprints")(options "")(descr ""))
+  (lib (name "Watchdog_Footprints")(type "KiCad")(uri "C:/Users/beckt/Documents/Telemetry_PCB/DSAT-Avionics-Telemetry-PCB/DSAT_Telemetry_Board/Project_Libraries/Watchdog_Footprints.pretty")(options "")(descr ""))
 )
